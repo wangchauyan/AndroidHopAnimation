@@ -1,6 +1,8 @@
 # AndroidHopAnimation
 Animation just like Android Onboarding Hopping Animation
+
 Just check the result below. 
+
 Pretty simple and you can get the amazing effect. 
 
 
